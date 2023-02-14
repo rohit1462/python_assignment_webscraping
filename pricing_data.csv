@@ -1,0 +1,22 @@
+Features,Plan_amount,Is_present,Is_present,Is_present,Is_present
+,,Free 0$,Team 8$,Organization 16$,Enterprice
+Personal Workspace,0$,yes,yes,yes,yes
+Up to 6 Project ,0$,yes,yes,yes,yes
+Flows (1 project),0$,yes,yes,yes,yes
+30 Day Version History,0$,yes,yes,yes,yes
+Team Workspace,8$,No,yes,yes,yes
+Unlimited ,8$,No,yes,yes,yes
+Flows (up to 6 projects),8$,No,yes,yes,yes
+Unlimited Version History,8$,No,yes,yes,yes
+Flows (up to 12 projects),16$,No,No,yes,yes
+Advanced User Permissions,16$,No,No,yes,yes
+Jira Server Integration,16$,No,No,yes,yes
+Priority Support,16$,No,No,yes,yes
+Flows (unlimited),Contact,No,No,No,yes
+Flow Boards,Contact,No,No,No,yes
+Domain capture,Contact,No,No,No,yes
+Single Sign On (SSO),Contact,No,No,No,yes
+SCIM,Contact,No,No,No,yes
+Invoiced Billing,Contact,No,No,No,yes
+Dedicated Success Manager,Contact,No,No,No,yes
+24hr Support SLA,Contact,No,No,No,yes
